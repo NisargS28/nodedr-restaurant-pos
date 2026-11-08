@@ -64,11 +64,15 @@ export function CheckoutPanel({
   branchId,
   initialCustomer = null,
   onDone,
+  onBack = onDone,
+  completedActionLabel = "New order",
 }: {
   order: CreatedOrder;
   branchId: string | null;
   initialCustomer?: Customer | null;
   onDone: () => void;
+  onBack?: () => void;
+  completedActionLabel?: string;
 }) {
   // The order passed in is a snapshot from when it was sent; the live copy
   // carries edits (removed lines, new totals), payments already taken, the
@@ -341,7 +345,7 @@ export function CheckoutPanel({
           >
             {printUsb.isPending ? "Printing…" : phone ? "Bluetooth receipt" : "Thermal receipt"}
           </Button>
-          <Button className="h-11" onClick={onDone}>New order</Button>
+          <Button className="h-11" onClick={onDone}>{completedActionLabel}</Button>
         </div>
       </div>
     );
@@ -378,7 +382,7 @@ export function CheckoutPanel({
           variant="ghost"
           size="sm"
           className="-ml-2 shrink-0 text-muted-foreground"
-          onClick={onDone}
+          onClick={onBack}
         >
           <ArrowLeft className="h-4 w-4" />
           Back

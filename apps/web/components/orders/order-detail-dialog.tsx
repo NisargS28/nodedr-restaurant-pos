@@ -12,6 +12,7 @@ import { CancelOrderDialog, useCanCancelOrders } from "@/components/orders/cance
 import { DeliveryWhere } from "@/components/orders/delivery-where";
 import { EditBillDialog } from "@/components/orders/edit-bill-dialog";
 import { ReasonDialog } from "@/components/orders/reason-dialog";
+import { CheckoutPanel } from "@/components/pos/checkout-panel";
 import { hasPermission, useCurrentUser } from "@/hooks/use-auth";
 import { useAcceptOrder, useOrder, useRejectOrder } from "@/hooks/use-orders";
 import { formatCurrency } from "@/lib/format";
@@ -43,9 +44,19 @@ export function OrderDetailDialog({
   const { data: me } = useCurrentUser();
   const canEditRole = hasPermission(me?.user, "orders.edit");
   const canAnswer = hasPermission(me?.user, "orders.accept");
+  const canTakePayment =
+    hasPermission(me?.user, "bills.print") &&
+    order?.status === "OPEN" &&
+    (order.acceptance === "ACCEPTED" || order.acceptance === "NOT_REQUIRED");
   const [cancelOpen, setCancelOpen] = useState(false);
   const [declineOpen, setDeclineOpen] = useState(false);
   const [editOpen, setEditOpen] = useState(false);
+  const [checkoutOrderId, setCheckoutOrderId] = useState<string | null>(null);
+  const showCheckout = open && !!order && checkoutOrderId === orderId && order.id === orderId;
+  const handleOpenChange = (nextOpen: boolean) => {
+    if (!nextOpen) setCheckoutOrderId(null);
+    onOpenChange(nextOpen);
+  };
   const customerName = order?.guestName ?? order?.customer?.name ?? "Walk-in guest";
   const pending = order?.status === "OPEN" && order?.acceptance === "PENDING";
   const canCancel = order?.status === "OPEN" && !pending;
@@ -64,8 +75,31 @@ export function OrderDetailDialog({
       )}`
     : null;
 
+  if (showCheckout && order) {
+    return (
+      <Dialog open={open} onOpenChange={handleOpenChange}>
+        <DialogContent className="flex h-[calc(100dvh-2rem)] max-w-lg flex-col overflow-hidden">
+          <DialogHeader>
+            <DialogTitle>Payment · Order #{order.orderNumber}</DialogTitle>
+          </DialogHeader>
+          <div className="min-h-0 flex-1 overflow-hidden">
+            <CheckoutPanel
+              key={order.id}
+              order={order}
+              branchId={branchId}
+              initialCustomer={order.customer}
+              onBack={() => setCheckoutOrderId(null)}
+              onDone={() => handleOpenChange(false)}
+              completedActionLabel="Done"
+            />
+          </div>
+        </DialogContent>
+      </Dialog>
+    );
+  }
+
   return (
-    <Dialog open={open} onOpenChange={onOpenChange}>
+    <Dialog open={open} onOpenChange={handleOpenChange}>
       <DialogContent className="max-w-md">
         <DialogHeader>
           <DialogTitle className="flex items-center gap-2">
@@ -199,6 +233,11 @@ export function OrderDetailDialog({
               <p className="rounded-lg bg-secondary/40 px-3 py-2 text-xs text-muted-foreground">
                 This bill is paid. To correct it, issue a refund from the Dashboard — paid bills are never edited in place.
               </p>
+            )}
+            {canTakePayment && (
+              <Button className="h-11 w-full" onClick={() => setCheckoutOrderId(order.id)}>
+                Take payment
+              </Button>
             )}
             {canCancel && (
               <div className="flex gap-2">

@@ -1,0 +1,1012 @@
+nodedr-restaurant-postgres  | 2026-11-07 18:36:47.525 UTC [5002] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:36:52.563 UTC [5009] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:36:57.608 UTC [5016] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:02.645 UTC [5023] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:07.679 UTC [5031] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:12.727 UTC [5038] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:17.768 UTC [5045] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:22.806 UTC [5052] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:27.843 UTC [5060] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:32.882 UTC [5067] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:37.919 UTC [5074] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:42.965 UTC [5081] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:48.009 UTC [5089] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:53.047 UTC [5096] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:37:58.088 UTC [5105] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:03.128 UTC [5112] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:08.164 UTC [5120] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:13.205 UTC [5127] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:18.249 UTC [5134] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:23.292 UTC [5141] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:28.332 UTC [5149] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:33.377 UTC [5156] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:38.416 UTC [5163] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:43.454 UTC [5170] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:48.492 UTC [5178] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:53.534 UTC [5185] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:38:58.576 UTC [5192] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:03.612 UTC [5199] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:08.649 UTC [5207] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:13.688 UTC [5214] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:18.726 UTC [5221] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:23.773 UTC [5228] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:28.816 UTC [5236] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:33.868 UTC [5243] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:38.906 UTC [5251] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:43.948 UTC [5258] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:48.988 UTC [5266] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:54.035 UTC [5273] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:39:59.087 UTC [5280] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:04.142 UTC [5287] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:09.183 UTC [5295] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:14.225 UTC [5302] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:19.271 UTC [5309] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:24.312 UTC [5316] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:29.353 UTC [5324] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:34.395 UTC [5332] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:39.429 UTC [5339] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:44.469 UTC [5346] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:49.508 UTC [5354] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:54.556 UTC [5361] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:40:59.606 UTC [5368] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:04.658 UTC [5375] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:09.702 UTC [5383] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:14.738 UTC [5390] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:19.806 UTC [5397] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:24.843 UTC [5404] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:29.879 UTC [5412] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:34.921 UTC [5419] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:39.958 UTC [5426] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:44.995 UTC [5433] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:50.039 UTC [5441] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:41:55.079 UTC [5449] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:00.118 UTC [5456] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:05.163 UTC [5463] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:10.208 UTC [5471] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:15.253 UTC [5478] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:20.296 UTC [5485] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:25.337 UTC [5492] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:30.380 UTC [5500] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:35.420 UTC [5507] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:40.452 UTC [5514] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:45.494 UTC [5521] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:50.532 UTC [5529] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:42:55.572 UTC [5536] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:00.609 UTC [5545] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:05.649 UTC [5552] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:10.690 UTC [5560] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:15.731 UTC [5567] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:20.767 UTC [5574] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:25.806 UTC [5581] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:30.842 UTC [5589] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:35.881 UTC [5596] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:40.914 UTC [5603] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:45.953 UTC [5610] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:50.990 UTC [5618] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:43:56.029 UTC [5625] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:01.070 UTC [5632] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:06.108 UTC [5639] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:11.143 UTC [5647] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:16.184 UTC [5654] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:21.224 UTC [5661] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:26.266 UTC [5668] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:31.306 UTC [5676] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:36.342 UTC [5683] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:41.379 UTC [5691] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:46.420 UTC [5698] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:51.457 UTC [5706] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:44:56.495 UTC [5713] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:01.533 UTC [5720] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:06.569 UTC [5727] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:11.607 UTC [5735] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:16.658 UTC [5743] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:21.704 UTC [5750] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:26.762 UTC [5757] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:31.808 UTC [5765] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:36.842 UTC [5772] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:41.886 UTC [5779] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:46.925 UTC [5786] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:51.963 UTC [5794] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:45:57.000 UTC [5801] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:02.036 UTC [5808] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:07.077 UTC [5816] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:12.114 UTC [5823] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:17.158 UTC [5830] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:22.195 UTC [5837] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:27.230 UTC [5845] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:32.266 UTC [5852] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:37.299 UTC [5859] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:42.336 UTC [5866] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:47.377 UTC [5874] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:52.421 UTC [5881] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:46:57.458 UTC [5888] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:02.494 UTC [5895] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:07.529 UTC [5903] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:12.568 UTC [5910] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:17.607 UTC [5917] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:22.649 UTC [5924] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:27.686 UTC [5932] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:32.722 UTC [5939] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:37.759 UTC [5946] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:42.807 UTC [5953] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:47.860 UTC [5962] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:52.898 UTC [5969] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:47:57.936 UTC [5976] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:02.971 UTC [5985] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:08.010 UTC [5993] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:13.053 UTC [6000] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:18.103 UTC [6007] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:23.140 UTC [6014] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:28.185 UTC [6022] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:33.223 UTC [6029] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:38.260 UTC [6036] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:43.299 UTC [6043] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:48.340 UTC [6051] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:53.380 UTC [6058] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:48:58.419 UTC [6065] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:03.458 UTC [6072] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:08.491 UTC [6080] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:13.527 UTC [6087] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:18.563 UTC [6094] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:23.606 UTC [6101] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:28.642 UTC [6109] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:33.681 UTC [6116] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:38.716 UTC [6123] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:43.754 UTC [6131] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:48.794 UTC [6139] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:53.836 UTC [6146] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:49:58.878 UTC [6153] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:03.934 UTC [6160] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:08.976 UTC [6168] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:14.017 UTC [6175] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:19.054 UTC [6182] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:24.098 UTC [6189] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:29.140 UTC [6197] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:34.183 UTC [6204] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:39.223 UTC [6211] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:44.268 UTC [6218] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:49.322 UTC [6226] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:54.364 UTC [6233] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:50:59.402 UTC [6240] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:04.447 UTC [6247] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:09.482 UTC [6255] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:14.520 UTC [6262] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:19.554 UTC [6269] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:24.667 UTC [6276] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:29.708 UTC [6284] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:34.746 UTC [6291] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:39.783 UTC [6298] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:44.824 UTC [6305] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:49.863 UTC [6313] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:54.900 UTC [6320] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:51:59.938 UTC [6327] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:04.979 UTC [6334] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:10.029 UTC [6342] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:15.072 UTC [6349] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:20.112 UTC [6356] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:25.156 UTC [6363] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:30.196 UTC [6371] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:35.233 UTC [6378] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:40.268 UTC [6385] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:45.310 UTC [6392] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:50.356 UTC [6400] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:52:55.414 UTC [6407] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:00.453 UTC [6416] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:05.490 UTC [6423] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:10.525 UTC [6431] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:15.565 UTC [6438] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:20.604 UTC [6445] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:25.646 UTC [6452] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:30.689 UTC [6460] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:35.736 UTC [6467] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:40.775 UTC [6474] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:45.830 UTC [6481] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:50.889 UTC [6489] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:53:55.930 UTC [6496] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:00.985 UTC [6503] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:06.021 UTC [6510] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:11.066 UTC [6519] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:16.123 UTC [6526] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:21.165 UTC [6533] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:26.204 UTC [6540] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:31.240 UTC [6548] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:36.278 UTC [6555] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:41.315 UTC [6563] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:46.356 UTC [6570] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:51.397 UTC [6578] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:54:56.440 UTC [6585] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:01.487 UTC [6593] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:06.526 UTC [6600] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:11.581 UTC [6608] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:16.629 UTC [6615] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:21.675 UTC [6622] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:26.712 UTC [6629] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:31.748 UTC [6637] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:36.783 UTC [6644] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:41.826 UTC [6651] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:46.863 UTC [6658] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:51.901 UTC [6666] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:55:56.938 UTC [6673] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:01.976 UTC [6680] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:07.014 UTC [6687] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:12.055 UTC [6695] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:17.091 UTC [6702] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:22.125 UTC [6709] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:27.166 UTC [6716] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:32.208 UTC [6724] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:37.249 UTC [6731] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:42.289 UTC [6738] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:47.327 UTC [6746] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-web       | ▲ Next.js 16.4.2
+nodedr-restaurant-web       | - Local:         http://0a4f9ebe0f82:3000
+nodedr-restaurant-web       | - Network:       http://0a4f9ebe0f82:3000
+nodedr-restaurant-web       | ✓ Ready in 0ms
+nodedr-restaurant-web       | ✓ Running next.config took 1.6ms
+nodedr-restaurant-web       | ▲ Next.js 16.4.2
+nodedr-restaurant-web       | - Local:         http://0a4f9ebe0f82:3000
+nodedr-restaurant-web       | - Network:       http://0a4f9ebe0f82:3000
+nodedr-restaurant-updater   | updater listening on :8080, managing nodedr-restaurant-backend, nodedr-restaurant-web
+nodedr-restaurant-updater   | updater listening on :8080, managing nodedr-restaurant-backend, nodedr-restaurant-web
+nodedr-restaurant-web       | ✓ Ready in 0ms
+nodedr-restaurant-web       | ✓ Running next.config took 1.5ms
+nodedr-restaurant-postgres  | 2026-11-07 18:56:52.363 UTC [6753] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:56:57.400 UTC [6760] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:02.435 UTC [6767] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:07.553 UTC [6775] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:12.593 UTC [6782] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:17.641 UTC [6789] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:22.687 UTC [6796] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:27.721 UTC [6804] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:32.758 UTC [6811] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:37.790 UTC [6818] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:42.830 UTC [6825] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:47.869 UTC [6833] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:52.915 UTC [6840] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:57:57.950 UTC [6847] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:02.986 UTC [6856] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:08.019 UTC [6864] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:13.055 UTC [6871] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:18.092 UTC [6878] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:23.133 UTC [6885] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:28.170 UTC [6893] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:33.205 UTC [6900] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:38.241 UTC [6907] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:43.297 UTC [6914] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:48.344 UTC [6922] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:53.386 UTC [6930] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:58:58.432 UTC [6937] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:03.471 UTC [6944] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:08.503 UTC [6952] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:13.543 UTC [6959] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:18.583 UTC [6966] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:23.621 UTC [6973] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:28.657 UTC [6981] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:33.694 UTC [6988] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:38.734 UTC [6995] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:43.778 UTC [7003] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:48.819 UTC [7011] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:53.857 UTC [7018] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 18:59:58.895 UTC [7025] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:03.931 UTC [7032] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:08.963 UTC [7040] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:13.998 UTC [7047] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:19.034 UTC [7054] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:24.073 UTC [7061] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:29.108 UTC [7069] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:34.142 UTC [7076] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:39.175 UTC [7083] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:44.215 UTC [7090] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:49.251 UTC [7098] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:54.285 UTC [7105] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:00:59.318 UTC [7112] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:04.352 UTC [7119] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:09.374 UTC [7127] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:14.409 UTC [7134] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:19.445 UTC [7141] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:24.481 UTC [7148] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:29.518 UTC [7156] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:34.552 UTC [7163] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:39.596 UTC [7170] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:44.635 UTC [7177] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:49.669 UTC [7185] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:54.703 UTC [7192] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:01:59.738 UTC [7199] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:04.773 UTC [7206] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:09.812 UTC [7214] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:14.850 UTC [7221] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:19.884 UTC [7228] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:24.919 UTC [7235] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:29.954 UTC [7243] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys/:id/rotate, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys/:id, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mStaffApiKeysController {/api/v1/staff-api-keys}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMcpController {/api/v1/mcp}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUpdateController {/api/v1/system}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/check, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:02:34.994 UTC [7250] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:40.029 UTC [7257] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:45.067 UTC [7264] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:50.104 UTC [7272] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:02:55.141 UTC [7279] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:00.176 UTC [7287] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:05.211 UTC [7295] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:10.243 UTC [7303] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/progress, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/apply, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[PermissionsSyncService] [39m[32mGranted new permission delivery.rider to 0 DELIVERY_STAFF role(s)[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/07/2026, 5:40:27 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +33ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:03:15.280 UTC [7310] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | Nodedr OrderRestro API listening on :4000 (docs at /api/docs)
+nodedr-restaurant-backend   | warn The configuration property `package.json#prisma` is deprecated and will be removed in Prisma 7. Please migrate to a Prisma config file (e.g., `prisma.config.ts`).
+nodedr-restaurant-postgres  | 2026-11-07 19:03:20.317 UTC [7317] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:25.352 UTC [7324] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:30.387 UTC [7332] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | For more information, see: https://pris.ly/prisma-config
+nodedr-restaurant-backend   | 
+nodedr-restaurant-backend   | Prisma schema loaded from prisma/schema.prisma
+nodedr-restaurant-backend   | Datasource "db": PostgreSQL database "nodedr_restaurant", schema "public" at "postgres:5432"
+nodedr-restaurant-backend   | 
+nodedr-restaurant-backend   | 53 migrations found in prisma/migrations
+nodedr-restaurant-backend   | 
+nodedr-restaurant-backend   | 
+nodedr-restaurant-backend   | No pending migrations to apply.
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPrismaModule dependencies initialized[39m[38;5;3m +38ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:03:35.421 UTC [7339] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:40.453 UTC [7346] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPassportModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +2ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mThrottlerModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mReferralsModule dependencies initialized[39m[38;5;3m +4ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPermissionsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:03:45.490 UTC [7353] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:03:50.525 UTC [7361] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mEmailModule dependencies initialized[39m[38;5;3m +2ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDownloadsModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mRealtimeModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSystemModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mRestaurantsModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuditModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mGiftCardsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDashboardModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:03:55.559 UTC [7368] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:00.594 UTC [7375] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:05.627 UTC [7382] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:10.660 UTC [7390] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:15.699 UTC [7397] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:20.735 UTC [7404] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:25.777 UTC [7411] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:30.813 UTC [7419] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:35.849 UTC [7426] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:40.883 UTC [7434] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCustomersModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPushModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mOperationsModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSyncModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMenuModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mImportsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:04:45.918 UTC [7441] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:50.955 UTC [7449] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:04:55.989 UTC [7456] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mSettingsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:05:01.024 UTC [7463] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:06.058 UTC [7470] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mRolesModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAttendanceModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:05:11.091 UTC [7478] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:16.132 UTC [7485] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mHrModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAccountingModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mInventoryModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:05:21.169 UTC [7492] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:26.206 UTC [7499] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:31.241 UTC [7507] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:36.277 UTC [7514] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:41.303 UTC [7521] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:46.342 UTC [7528] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:51.375 UTC [7536] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:05:56.412 UTC [7543] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:01.447 UTC [7550] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:06.486 UTC [7557] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:11.523 UTC [7565] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:16.560 UTC [7572] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:21.595 UTC [7579] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:26.630 UTC [7586] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:31.666 UTC [7594] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:36.698 UTC [7601] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:41.733 UTC [7608] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:46.783 UTC [7615] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:51.824 UTC [7623] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:06:56.860 UTC [7631] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:01.896 UTC [7638] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:06.929 UTC [7645] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:11.966 UTC [7653] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:17.000 UTC [7660] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:22.038 UTC [7667] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWebhooksModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mVerifactuModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:07:27.074 UTC [7674] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMarketingModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:07:32.108 UTC [7682] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:37.140 UTC [7689] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPublicModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:07:42.176 UTC [7696] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:47.211 UTC [7703] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:52.246 UTC [7711] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:07:57.279 UTC [7718] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:02.315 UTC [7727] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:07.352 UTC [7734] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:12.387 UTC [7742] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:17.423 UTC [7749] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:22.461 UTC [7756] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:27.497 UTC [7764] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:32.532 UTC [7771] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:37.565 UTC [7778] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:42.600 UTC [7785] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:08:47.634 UTC [7793] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTablesModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:08:52.668 UTC [7800] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWaitlistModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mNotificationsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:08:57.703 UTC [7807] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:02.737 UTC [7814] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mReportsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDeliveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mReservationsModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mRiderModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mBackupModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:07.770 UTC [7822] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMcpModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:12.802 UTC [7829] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mKdsModule dependencies initialized[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mStandaloneModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mIntegrationHubModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPaymentGatewaysModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mIntegrationsModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:17.838 UTC [7836] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:22.871 UTC [7843] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mOrdersModule dependencies initialized[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:27.905 UTC [7851] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:32.940 UTC [7858] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/api}:[39m[38;5;3m +93ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api, GET} route[39m[38;5;3m +3ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/health, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/api/v1/auth}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:37.975 UTC [7865] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:43.010 UTC [7873] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:48.054 UTC [7881] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:09:53.087 UTC [7888] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/register, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/login, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/pin-login, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:09:58.124 UTC [7895] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:03.158 UTC [7902] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/me, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:10:08.192 UTC [7910] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/logout, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/2fa/status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/2fa/setup, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/2fa/enable, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:10:13.231 UTC [7917] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:18.266 UTC [7924] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:23.301 UTC [7931] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:28.336 UTC [7939] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/2fa/disable, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/2fa/reset/:userId, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/me, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:10:33.372 UTC [7946] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:38.404 UTC [7953] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:43.441 UTC [7960] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/auth/setup-status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuditController {/api/v1/audit-logs}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/audit-logs, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/audit-logs/entities, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:10:48.477 UTC [7968] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:53.510 UTC [7975] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:10:58.548 UTC [7982] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:11:03.584 UTC [7989] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMenuController {/api/v1/menu}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-07 19:11:08.617 UTC [7997] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-07 19:11:13.654 UTC [8004] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/categories, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/categories, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+nodedr-restaurant-postgres  | 
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/categories/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/categories/:id, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:04.199 UTC [1] LOG:  starting PostgreSQL 16.15 on x86_64-pc-linux-musl, compiled by gcc (Alpine 15.2.0) 15.2.0, 64-bit
+nodedr-restaurant-postgres  | 2026-11-08 06:41:04.199 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/stations, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/stations, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:04.199 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:04.203 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+nodedr-restaurant-postgres  | 2026-11-08 06:41:04.209 UTC [29] LOG:  database system was interrupted; last known up at 2026-11-07 18:25:18 UTC
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/bulk-price, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/upload-image, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/modifier-groups, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/modifier-groups, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/modifier-groups/:id, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.268 UTC [29] LOG:  database system was not properly shut down; automatic recovery in progress
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.272 UTC [29] LOG:  redo starts at 0/1D1E998
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.272 UTC [29] LOG:  invalid record length at 0/1D1EA80: expected at least 24, got 0
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/modifier-groups/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/:id/combo-components, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/menu/items/:id/combo-components, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mTablesController {/api/v1/tables}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/requests, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/requests/:id/resolve, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/floors, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.272 UTC [29] LOG:  redo done at 0/1D1EA48 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.282 UTC [27] LOG:  checkpoint starting: end-of-recovery immediate wait
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/floors, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.302 UTC [27] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.007 s, sync=0.002 s, total=0.025 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1D1EA80, redo lsn=0/1D1EA80
+nodedr-restaurant-postgres  | 2026-11-08 06:41:05.312 UTC [1] LOG:  database system is ready to accept connections
+nodedr-restaurant-postgres  | 2026-11-08 06:41:09.090 UTC [41] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/bulk, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/floors/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/layout, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:14.131 UTC [49] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:19.167 UTC [56] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:24.204 UTC [63] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:29.241 UTC [70] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/:id/qr-token, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/tables/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:34.277 UTC [77] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:39.318 UTC [84] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:44.374 UTC [91] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:49.419 UTC [98] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAttendanceController {/api/v1/attendance}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/attendance/me, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/attendance/clock-in, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:41:54.456 UTC [105] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:41:59.490 UTC [112] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:04.526 UTC [121] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/attendance/clock-out, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/attendance, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:09.567 UTC [128] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:14.604 UTC [135] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:19.648 UTC [142] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/attendance/:id, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDeliveryController {/api/v1/delivery}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/zones, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/zones, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/zones/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/zones/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/drivers, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/:orderId/assign, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:24.686 UTC [149] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:29.728 UTC [156] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/delivery/:orderId/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mRiderController {/api/v1/rider}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:34.764 UTC [163] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:39.800 UTC [170] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/rider/me, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:44.835 UTC [177] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/rider/duty, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:49.874 UTC [185] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:42:54.912 UTC [192] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/rider/location, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/rider/deliveries, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/rider/deliveries/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mHrController {/api/v1/hr}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/shifts, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/shifts/mine, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/shifts, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:42:59.985 UTC [199] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/shifts/:id, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/leave, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/leave/mine, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:05.021 UTC [206] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:43:10.055 UTC [214] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:43:15.092 UTC [221] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/leave, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/leave/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/pay, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:20.127 UTC [228] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:43:25.164 UTC [235] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/pay/:userId, PUT} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:30.204 UTC [243] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:35.254 UTC [250] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id/finalize, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id/lines/:userId, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id/pay, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id/lines/:userId/slip, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/payroll/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/hr/performance, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAccountingController {/api/v1/accounting}:[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:40.305 UTC [257] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:43:45.351 UTC [264] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/expenses, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/expenses, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:43:50.441 UTC [271] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:43:55.477 UTC [278] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/expenses/:id, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:00.514 UTC [285] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/closing/preview, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/closing, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:05.555 UTC [293] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:44:10.597 UTC [300] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:44:15.634 UTC [307] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:44:20.672 UTC [314] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/closing, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:25.708 UTC [321] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:44:30.741 UTC [328] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/profit-loss, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:35.776 UTC [335] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/gst, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:40.811 UTC [342] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/branches, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mLedgerController {/api/v1/accounting}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:45.846 UTC [349] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/budgets, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:50.883 UTC [356] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/budgets, PUT} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/budgets/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:44:55.920 UTC [363] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:45:00.954 UTC [370] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:05.994 UTC [378] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:45:11.027 UTC [385] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank/import, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:16.062 UTC [392] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank/auto-match, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank/:id/candidates, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:21.101 UTC [399] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:45:26.138 UTC [406] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank/:id/match, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/bank/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/accounting/balance-sheet, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:31.170 UTC [413] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:45:36.208 UTC [420] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMarketingController {/api/v1/marketing}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:41.244 UTC [427] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/coupons, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:46.279 UTC [434] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:45:51.316 UTC [441] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/coupons, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/coupons/:id/active, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/coupons/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/promotions, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:45:56.361 UTC [448] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/promotions, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:01.396 UTC [455] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/promotions/:id/active, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:05.391 UTC [27] LOG:  checkpoint starting: time
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/promotions/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:05.711 UTC [27] LOG:  checkpoint complete: wrote 4 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.304 s, sync=0.006 s, total=0.321 s; sync files=4, longest=0.004 s, average=0.002 s; distance=25 kB, estimate=25 kB; lsn=0/1D251F8, redo lsn=0/1D251C0
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:06.433 UTC [463] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:46:11.468 UTC [470] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:09 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:16.506 UTC [477] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns/:id/audience, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns/:id/send, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:21.540 UTC [484] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/marketing/campaigns/:id/audience.csv, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:26.574 UTC [491] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mReportsController {/api/v1/reports}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reports, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:31.607 UTC [498] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:46:36.645 UTC [505] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reports/:key, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:41.680 UTC [512] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reports/:key/csv, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:46.715 UTC [519] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reports/:key/export, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mReportSchedulesController {/api/v1/report-schedules}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/report-schedules, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:46:51.750 UTC [526] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:46:56.784 UTC [533] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-postgres  | 2026-11-08 06:47:01.818 UTC [540] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/report-schedules, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/report-schedules/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/report-schedules/:id/send, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/report-schedules/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-postgres  | 2026-11-08 06:47:06.853 UTC [548] FATAL:  database "nodedr" does not exist
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mOperationsController {/api/v1/operations}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/equipment, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/equipment, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/equipment/:id, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/equipment/:id/logs, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/equipment/:id/logs, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id/files, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id/files/:fileId, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/operations/documents/:id/files/:fileId, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mWebhooksController {/api/v1/webhooks}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks/events, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks/:id/active, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks/:id/deliveries, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/webhooks/:id/test, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mIntegrationHubController {/api/v1/integration-hub}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/:provider, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/:provider/test, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/:provider/enabled, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/:provider/logs, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/:provider, DELETE} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mIntegrationHubWebhookController {/api/v1/integration-hub/webhook}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-hub/webhook/:restaurantId/:provider, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mOrdersController {/api/v1/orders}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/manage, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/items, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/accept, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/reject, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/cancel, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/items/:itemId, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/items/:itemId/remove, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/discount-preview, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/bill-preview, POST} route[39m[38;5;3m +4ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/checkout, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/receipt, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/kot, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/print/diagnostics, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/print/test, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/print/drawer, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/print/usb, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/print/kot, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/print/kot/usb, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/refund, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/delete-bulk, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:id/merge, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mGiftCardsController {/api/v1/gift-cards}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/gift-cards, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/gift-cards/:code, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/gift-cards, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mInventoryController {/api/v1/inventory}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/low-stock, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id/adjust, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id/movements, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/ingredients/:id/batches, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/menu-items/:id/recipe, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/menu-items/:id/recipe, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/tracking-status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/menu-items/:id/tracking, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/menu-items/:id/tracking, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-orders, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-orders/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-orders, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-orders/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/goods-receipts, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/goods-receipts/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/goods-receipts, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/waste, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/waste, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-requests, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-requests/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-requests, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/purchase-requests/:id/status, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/quotations, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/quotations/compare, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/quotations/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/quotations, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/quotations/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices/parse-text, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices/:id, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices/:id/payments, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/supplier-invoices/:id/cancel, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/suppliers/:id/performance, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mTransfersController {/api/v1/inventory/transfers}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/transfers, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/inventory/transfers, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mNotificationsController {/api/v1/notifications}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/notifications, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/notifications/:id/read, PATCH} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/notifications/read-all, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mVerifactuController {/api/v1/verifactu}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/settings, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/settings, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/certificate, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/records, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/verify, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/send, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/verifactu/export.xml, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPaymentGatewaysController {/api/v1/payment-gateways}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/countries, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/catalog, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/connections, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/custom/:key, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/custom/:key, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider/test, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider/mode, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider/enabled, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider/credentials/:mode, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/:provider, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mGatewayPaymentsController {/api/v1}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:orderId/gateway-payments, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/orders/:orderId/gateway-payments, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/active, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/payments, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/refunds-to-review, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/gateway-payments/:id/refund, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/gateway-payments/:id/refresh, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mGatewayPaymentsPublicController {/api/v1/payment-gateways}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/webhook/:restaurantId/:provider/:mode, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/payment-gateways/return-status/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mImportsController {/api/v1/imports}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/imports/templates/:kind, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/imports/:kind/preview, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/imports/:kind/commit, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mKdsController {/api/v1/kds}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/stations, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/incoming, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/incoming/:id/accept, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/incoming/:id/reject, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/progress, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/performance, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets/:id/reject, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets/:id/priority, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets/:id/print, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/kds/tickets/:id/reprint, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDashboardController {/api/v1/dashboard}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/dashboard/summary, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/dashboard/trends, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/dashboard/preferences, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/dashboard/preferences, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mBranchesController {/api/v1/branches}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/branches, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mReservationsController {/api/v1/reservations}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reservations, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reservations, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/reservations/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mWaitlistController {/api/v1/waitlist}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/waitlist, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/waitlist, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/waitlist/:id/seat, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/waitlist/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPublicMenuController {/api/v1/public}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/menu/:qrToken, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/menu/:qrToken/order, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/menu/:qrToken/status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/menu/:qrToken/request, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPublicKioskController {/api/v1/public/kiosk}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/kiosk/:kioskToken, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/public/kiosk/:kioskToken/order, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDownloadsController {/api/v1/downloads}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/downloads/stats, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/downloads/go/:channel, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mCustomersController {/api/v1/customers}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id/rewards, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id/addresses, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id/addresses, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id/addresses/:addressId, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/customers/:id/addresses/:addressId, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mSettingsController {/api/v1/settings}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings/display, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings/restaurant, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings/restaurant/logo, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings/branch, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/settings/kiosk/:action, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mSyncPeerController {/api/v1/sync-peer}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync-peer/ping, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync-peer/pull, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync-peer/push, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mSyncController {/api/v1/sync}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync/status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync/test, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync/settings, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync/run, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/sync/disable, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUsersController {/api/v1/users}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/roles, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/departments, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/departments, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/departments/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/departments/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/users/:id/permission-overrides, PUT} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mRolesController {/api/v1/roles}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/roles, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/roles, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/roles/:id, PATCH} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/roles/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDevicesController {/api/v1}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mobile/config, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/devices, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/devices/:token, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mStandaloneController {/api/v1/mobile/standalone}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mobile/standalone/snapshot, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mobile/standalone/sales, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mBackupController {/api/v1/backups}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/status, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/config, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/config, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/:id/restore, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/export, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/backups/:id/download, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mIntegrationsController {/api/v1/integrations}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/menu, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/delivery-quote, GET} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/orders, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/orders/:orderId, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/rewards, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/reservations, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integrations/locations/:branchId/reservations/:reservationId, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mIntegrationApiKeysController {/api/v1/integration-api-keys}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys/:id/rotate, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/integration-api-keys/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mStaffApiKeysController {/api/v1/staff-api-keys}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys, POST} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/staff-api-keys/:id, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMcpController {/api/v1/mcp}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/mcp, DELETE} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUpdateController {/api/v1/system}:[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/check, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/progress, GET} route[39m[38;5;3m +0ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/v1/system/update/apply, POST} route[39m[38;5;3m +1ms[39m
+nodedr-restaurant-backend   | [32m[Nest] 1  - [39m11/08/2026, 6:41:10 AM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +286ms[39m
+nodedr-restaurant-backend   | Nodedr OrderRestro API listening on :4000 (docs at /api/docs)
